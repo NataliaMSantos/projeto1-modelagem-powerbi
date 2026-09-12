@@ -1,5 +1,7 @@
 # Análise de vendas e entregas com Power BI
 
+![Dashboard](dashboard.png)
+
 ## Contexto
 
  - **Fonte dos dados:** Base fornecida durante o curso de "Power BI: modelagem de dados" da Alura.
@@ -46,3 +48,11 @@
 - **`projeto1.pbix`**: Arquivo do Power BI com o modelo e o dashboard final. *Para visualizar, faça o download e abra no Power BI Desktop.*
 - **`dashboard.png`**: Print do dashboard final.
 - **`documentação-modelagem.pdf`**: Documentação técnica gerada pelo Power BI Helper.
+    - 📄 [Clique aqui para ver a documentação técnica completa (PDF)](documentação-modelagem.pdf)
+
+## Autora
+
+**Natália M. Santos**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalia-m-santos/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NataliaMSantos)
