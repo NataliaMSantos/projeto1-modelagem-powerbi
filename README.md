@@ -48,7 +48,7 @@
 - **`projeto1.pbix`**: Arquivo do Power BI com o modelo e o dashboard final. *Para visualizar, faça o download e abra no Power BI Desktop.*
 - **`dashboard.png`**: Print do dashboard final.
 - **`documentação-modelagem.pdf`**: Documentação técnica gerada pelo Power BI Helper.
-    - 📄 [Clique aqui para ver a documentação técnica completa (PDF)](documentação-modelagem.pdf)
+    - 📄 [Clique aqui para ver a documentação técnica completa (PDF)](documentação-projeto1.pdf)
 
 ## Autora
 
